@@ -1,0 +1,4 @@
+country_name: "chile"
+ssp_input_file_name: "sisepuede_raw_global_inputs_chile.csv"
+ssp_transformation_cw: "ssp_Chile_transformation_2025_08_20.xlsx"
+energy_model_flag: true
