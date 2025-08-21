@@ -1,5 +1,5 @@
 strategy_groups:
-  BASE: 0-999
+  BASE: 0-9999
   AGRC: 1000-1999
   LNDU: 1000-1999
   LSMM: 1000-1999
