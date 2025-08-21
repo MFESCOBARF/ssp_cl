@@ -1,4 +1,4 @@
-# SSP_Mexico
+# SSP_Chile
 This repository stores the notebook to run the SSP model on Mexico's mitigation scenarios.
 
 ## Get Started
